@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router";
-import CreatePage from './pages/CreatePage';
-import NoteDetailPage from "./pages/NoteDetailPage";
+// import CreatePage from './pages/CreatePage';
+// import NoteDetailPage from "./pages/NoteDetailPage";
 
 const App = () => {
   return (
